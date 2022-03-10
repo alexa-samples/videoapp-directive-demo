@@ -1,6 +1,9 @@
 # VideoApp Feature Demo
 This sample simply plays a video from an S3 bucket.  Setup the skill and launch it to see it in action.
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 ## What You Will Need
 *  [Amazon Developer Account](http://developer.amazon.com/alexa)
 *  [Amazon Web Services Account](http://aws.amazon.com/)
